@@ -4,3 +4,6 @@
 [submodule "cookbooks/nodejs"]
 	path = cookbooks/nodejs
 	url = git://github.com/mdxp/nodejs-cookbook.git
+[submodule "cookbooks/couchdb"]
+	path = cookbooks/couchdb
+	url = git@github.com:opscode-cookbooks/couchdb.git
