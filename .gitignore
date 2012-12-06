@@ -1,4 +1,4 @@
-# Numerous always-ignore extensions
+# File Extensions to ignore
 *.diff
 *.err
 *.orig
@@ -9,6 +9,8 @@
 *.vi
 *~
 *.sass-cache
+*.sublime-project
+*.sublime-workspace
 
 # OS or Editor folders
 .DS_Store
@@ -18,5 +20,3 @@
 .tmproj
 nbproject
 Thumbs.db
-.sublime-project
-.sublime-workspace

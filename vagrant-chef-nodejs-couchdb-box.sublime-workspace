@@ -748,6 +748,8 @@
 	},
 	"file_history":
 	[
+		"/C/_Projects/Dennis Evert/vagrant-chef-nodejs-couchdb-box/.gitignore",
+		"/C/_Projects/Dennis Evert/vagrant-chef-nodejs-couchdb-box/README.md",
 		"/C/_Projects/Experiments/vagrant_test/index.html",
 		"/C/_Projects/Experiments/vagrant_test/VagrantFile",
 		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/product/QuickInfoModal.js",
@@ -873,9 +875,7 @@
 		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/JavaScriptTemplates.ascx",
 		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/product/ReviewSuccessModal.js",
 		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/layouts/JRWatkins/controls/ProductDetail.ascx",
-		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/ProductGroupDisplayControl.ascx",
-		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/ProductGroupFilterControl.ascx",
-		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/ProductGroup.js"
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/ProductGroupDisplayControl.ascx"
 	],
 	"find":
 	{
