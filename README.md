@@ -5,6 +5,7 @@ A Vagrant Box, provisioned with Chef Solo, including NodeJS and CouchDB.
 
 Other recipes included:
 
+* build-essential
 * vim
 
 Usage
