@@ -1,0 +1,1777 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"e",
+				"exec	exec"
+			],
+			[
+				"c",
+				"class	class"
+			],
+			[
+				"account",
+				"accountNewAddressForm"
+			],
+			[
+				"_",
+				"_attachItemLinkListeners"
+			],
+			[
+				"en",
+				"enableCheckoutButton"
+			],
+			[
+				"data",
+				"dataAttr"
+			],
+			[
+				"prodi",
+				"productId"
+			],
+			[
+				"da",
+				"dataAttr"
+			],
+			[
+				"itemLi",
+				"itemList_emptyMessage"
+			],
+			[
+				"totalsDisplay_",
+				"totalsDisplay_total"
+			],
+			[
+				"to",
+				"totalsDisplay_subtotal"
+			],
+			[
+				"item",
+				"item_updateLink"
+			],
+			[
+				"select",
+				"selectors"
+			],
+			[
+				"tota",
+				"totalsDisplay_bonus"
+			],
+			[
+				"p",
+				"public"
+			],
+			[
+				"jq-",
+				"jq-plugin-class	jQuery Plugin Class"
+			],
+			[
+				"page",
+				"pageTabData"
+			],
+			[
+				"elem",
+				"elementTabIndex"
+			],
+			[
+				"tab",
+				"tabIndex"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"filter",
+				"filter-list"
+			],
+			[
+				"cart",
+				"cartEmpty"
+			],
+			[
+				"shippin",
+				"shippingCost"
+			],
+			[
+				"handl",
+				"handleCartUpdated"
+			],
+			[
+				"hanl",
+				"handleUpdateLineItemClick"
+			],
+			[
+				"num",
+				"numLinks"
+			],
+			[
+				"revie",
+				"reviewPaginationLinks"
+			],
+			[
+				"review",
+				"reviewList"
+			],
+			[
+				"el",
+				"elements"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"quick",
+				"quickPayFields"
+			],
+			[
+				"currn",
+				"currentPaymentType"
+			],
+			[
+				"show",
+				"showQuickPayFields"
+			],
+			[
+				"hi",
+				"hideQuickPayFields"
+			],
+			[
+				"qui",
+				"quickPayFields"
+			],
+			[
+				"Account",
+				"AccountEmailModal"
+			],
+			[
+				"prompt",
+				"shouldPromptForEmail"
+			],
+			[
+				"guestFor",
+				"guestForm"
+			],
+			[
+				"handle",
+				"handleGuestFormSubmit"
+			],
+			[
+				"F",
+				"FORM_SUBMIT"
+			],
+			[
+				"guestForm",
+				"guestFormElement"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"see",
+				"sequence"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"new",
+				"newCardBillingFields"
+			],
+			[
+				"set",
+				"setNewCardBillingFields"
+			],
+			[
+				"state",
+				"stateOption"
+			],
+			[
+				"remove",
+				"removeAttr"
+			],
+			[
+				"i",
+				"ife	if … else"
+			],
+			[
+				"prefill",
+				"prefillData"
+			],
+			[
+				"newCard",
+				"newCardBillingFields"
+			],
+			[
+				"cred",
+				"creditCard"
+			],
+			[
+				"slide",
+				"slideUp"
+			],
+			[
+				"nw",
+				"newCardFields"
+			],
+			[
+				"credi",
+				"creditCardInfo"
+			],
+			[
+				"securityFi",
+				"securityFieldInput"
+			],
+			[
+				"sec",
+				"securityField"
+			],
+			[
+				"hand",
+				"handleExistingCardChecked"
+			],
+			[
+				"ex",
+				"existingCardInputs"
+			],
+			[
+				"content",
+				"content-inner"
+			],
+			[
+				"current",
+				"currentPaymentType"
+			],
+			[
+				"get",
+				"getViewState"
+			],
+			[
+				"chek",
+				"checkoutButton"
+			],
+			[
+				"checkout",
+				"checkoutButton"
+			],
+			[
+				"line",
+				"lineItemLength"
+			],
+			[
+				"check",
+				"checkoutButton"
+			],
+			[
+				"acc",
+				"accountNewAddressForm"
+			],
+			[
+				"view",
+				"viewContainer"
+			],
+			[
+				"vie",
+				"viewState"
+			],
+			[
+				"ac",
+				"accountEnterNewAddressButton"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"error",
+				"error"
+			],
+			[
+				"alert",
+				"alertContainer"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"submit",
+				"submitAddGiftCertButton"
+			],
+			[
+				"sub",
+				"submitViewCartButton"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"shopBut",
+				"shopButtonLabel"
+			],
+			[
+				"shop",
+				"shopButtonLabel"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ita",
+				"italic"
+			],
+			[
+				"post",
+				"postRemoveLinks"
+			],
+			[
+				"na",
+				"navLinks"
+			],
+			[
+				"Site",
+				"SitecoreFieldsHelper"
+			],
+			[
+				"card",
+				"cardTypes"
+			],
+			[
+				"checkout-billing",
+				"checkout-billing-expirationMonth"
+			],
+			[
+				"pay",
+				"paymentTypeRadioGroup"
+			],
+			[
+				"hidden",
+				"hiddenFields"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"existing",
+				"existingAddressState"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"naturl",
+				"natural-detail"
+			],
+			[
+				"handleF",
+				"handleFormSuccess"
+			],
+			[
+				"setCon",
+				"setConsultantId"
+			],
+			[
+				"cons",
+				"consultantId"
+			],
+			[
+				"setConsul",
+				"setConsultantNumber"
+			],
+			[
+				"consul",
+				"consulantNumber"
+			],
+			[
+				"button",
+				"buttonAction"
+			],
+			[
+				"js",
+				"jq-plugin-class	jQuery Plugin Class"
+			],
+			[
+				"create",
+				"createStoreLocations"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"billing",
+				"billingAddress"
+			],
+			[
+				"address",
+				"address"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"bill",
+				"billingAddressFields"
+			],
+			[
+				"com",
+				"compile"
+			],
+			[
+				"shipping",
+				"shipping-address-sequence"
+			],
+			[
+				"isPr",
+				"isPrimaryInput"
+			],
+			[
+				"sequence",
+				"sequenceInput"
+			],
+			[
+				"canc",
+				"cancelLink"
+			],
+			[
+				"primaryShipping",
+				"primaryShippingAddressModal"
+			],
+			[
+				"name",
+				"nameArray"
+			],
+			[
+				"form",
+				"formElement"
+			],
+			[
+				"pref",
+				"prefillData"
+			],
+			[
+				"rece",
+				"receiveEmailsInput"
+			],
+			[
+				"forgot",
+				"forgot-password-modal"
+			],
+			[
+				"FORM",
+				"FORM_BUSINESSOPPORTUNITIES"
+			],
+			[
+				"pro",
+				"productId"
+			],
+			[
+				"jq",
+				"jq-plugin-class	jQuery Plugin Class"
+			],
+			[
+				"jq-pl",
+				"jq-boilerplate-min	jQuery Plugin Boilerplate Minified"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "JRWatkins",
+	"command_palette":
+	{
+		"height": 235.0,
+		"selected_items":
+		[
+			[
+				"Mi",
+				"View: Toggle Minimap"
+			],
+			[
+				"Pupp",
+				"Set Syntax: Puppet"
+			],
+			[
+				"Pacak",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"Pacakge",
+				"Package Control: Install Package"
+			],
+			[
+				"Ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"Grunt",
+				"Grunt"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Emmet",
+				"Emmet: Remove Tag"
+			],
+			[
+				"User",
+				"Preferences: Settings - User"
+			],
+			[
+				"C#",
+				"Set Syntax: C#"
+			],
+			[
+				"MS",
+				"Set Syntax: MSBuild"
+			],
+			[
+				"Add",
+				"Project: Add Folder"
+			],
+			[
+				"Packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Min",
+				"View: Toggle Minimap"
+			],
+			[
+				"Settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"P",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pacak",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Cont",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Syntax: H",
+				"Set Syntax: HTML5"
+			],
+			[
+				"Mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"Sni",
+				"Snippet: Function"
+			],
+			[
+				"Packag",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet:jq-",
+				"Snippet: jquery-plugin-class"
+			],
+			[
+				"Snippet-p",
+				"Snippet: jquery-plugin-class"
+			],
+			[
+				"Snippet: jq-",
+				"Snippet: jquery-plugin-class"
+			],
+			[
+				"Snippet: j",
+				"Snippet: jquery-plugin-class"
+			],
+			[
+				"Snippet li",
+				"Snippet: live"
+			],
+			[
+				"Syn J",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"PackageControl",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet on",
+				"Snippet: jQuery on handler"
+			],
+			[
+				"Syntax js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Syntax: J",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"Syntax",
+				"Set Syntax: ASP"
+			],
+			[
+				"Snippet o",
+				"Snippet: on"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"SyntaxA",
+				"Set Syntax: ASP"
+			],
+			[
+				"Package Controll",
+				"Package Control: List Packages"
+			],
+			[
+				"Zen Coding: ",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"",
+				"Fetch: Manage remote files"
+			],
+			[
+				"Fetch",
+				"Fetch"
+			],
+			[
+				"Paca",
+				"Package Control: Install Package"
+			],
+			[
+				"Stack",
+				"Stackoverflow: Search from Input"
+			],
+			[
+				"Pacakage",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/_Projects/Experiments/vagrant_test/index.html",
+		"/C/_Projects/Experiments/vagrant_test/VagrantFile",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/product/QuickInfoModal.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/css/reset.css",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/checkout/CheckoutStep2View.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/util/EqualHeightRow.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/util/jquery.equalheightrow.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/code/CassetteConfiguration.cs",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/css/account.css",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/checkout/CheckoutStep3View.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/OurConsultantsView.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ApplicationRouter.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/AccountDetailView.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/css/module.css",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/css/forms.css",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/.project",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/css/category.css",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/account/ShippingAddressModal.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/Account/ShippingAddressModalControl.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/AccountCreateView.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/layouts/JRWatkins/controls/AccountCreate.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/css/utility.css",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/Dropdown.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/Form.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/libs/handlebars.helpers.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/grunt.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/template/CompiledTemplates.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/account/PrimaryCreditCardModal.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/account/PrimaryShippingAddressModal.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/account/RemoveCreditCardModal.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/account/RemoveShippingAddressModal.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/account/SavedCreditCardsModal.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/account/SavedShippingAddressesModal.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/MediaModal.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/NavCart.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/QuickOrderView.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/StoreLocatorView.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/CartItemTable.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/test.js",
+		"/C/Users/devert/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/devert/.bashrc",
+		"/C/.bashrc",
+		"/C/Users/devert/.ssh/config",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/template/Templates.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/template/CompiledTemplates_New.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/package.json",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/README.md",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/HtmlEnd.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/account/CreditCardModal.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/layouts/JRWatkins/controls/Account.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/Application.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/ErrorModal.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/account/QuickPayModal.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/modal-quick-info.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/store-pagination-item.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/saved-credit-card-list.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/consultant-search-item.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/credit-card-info.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/saved-shipping-address-list.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/address-info.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/form-alert.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/cart-table-item-consultant.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/cart-table-item.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/nav-cart-item.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/store-list-item.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/partial-store-list-item.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/partial-size-filter-item.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/partial-color-filter-item.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/partial-product.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/modal-confirmation.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/modal-in-the-media.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/saved-shipping-address-list",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/cart-table-item-consultant",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/form-alert.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/modal-confirmation",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/quick-info.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/partial-color-filter-item",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/partial-size-filter-item",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/JSTemplates/partial-store-list-item",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/store-pagination-item.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/nav-cart-item.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/test.handlebars",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/layouts/JRWatkins/controls/CheckoutStep3.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/layouts/JRWatkins/controls/ConsultantDashboard.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/layouts/JRWatkins/controls/ConsultantDashboard.ascx.cs",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/layouts/JRWatkins/controls/CheckoutStep1.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/checkout/CheckoutStep1View.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/util/util.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/css/cart.css",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/CartView.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/layouts/JRWatkins/controls/CheckoutStep3.ascx.cs",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/ConsultantCheckoutLineItemsControl.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/CustomerCheckoutLineItemsControl.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/CustomerCartControl.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/ConsultantCartControl.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/Account/OrderDetails/CustomerLineItemsControl.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/layouts/JRWatkins/controls/Cart.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/Account/OrderDetails/ConsultantLineItemsControl.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/12096_Website_Redesign.sublime-project",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/12096_Website_Redesign.sublime-build",
+		"/C/Users/devert/AppData/Roaming/Sublime Text 2/Packages/MSBuild/MSBuild.sublime-build",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/build.xml",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/css/print.css",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/Modal.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/css/product.css",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/css/common.css",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/FormModal.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/layouts/JRWatkins/controls/CheckoutStep2.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/css/checkout.css",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/CustomerCheckoutLineItemsControl.ascx.cs",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/CustomerCheckoutTotalsControl.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/ConsultantCheckoutLineItemsControl.ascx.cs",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/ConsultantCheckoutTotalsControl.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/CustomerCartControl.ascx.cs",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/LoginView.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/ProductDetailView.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/css/rating-review.css",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/ProductDetailReviewsControl.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/libs/jquery.paging.js",
+		"/C/Users/devert/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/ProductReviewSuccessModalControl.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/Navigation/SecondaryNavigation.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/JavaScriptTemplates.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/product/ReviewSuccessModal.js",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/layouts/JRWatkins/controls/ProductDetail.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/ProductGroupDisplayControl.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/controls/JRWatkins/ProductGroupFilterControl.ascx",
+		"/C/_Projects/JR Watkins/12096_Website_Redesign/src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/ProductGroup.js"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\assets\\jrwatkins\\js",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\assets\\jrwatkins\\css",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\assets\\jrwatkins\\js",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\assets\\jrwatkins\\css",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\assets\\jrwatkins\\js",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\assets\\jrwatkins\\js",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\assets\\jrwatkins\\js",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\assets\\js",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\assets\\jrwatkins\\js",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\assets\\js",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\assets\\jrwatkins\\",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\assets\\jrwatkins\\js",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\assets\\jrwatkins\\css",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\assets\\jrwatkins\\js",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\assets\\jrwatkins\\js",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\assets\\",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\assets\\jrwatkins\\css",
+			"C:\\_Projects\\JR Watkins\\12096_Website_Redesign\\src\\JRWatkins.Site\\assets\\jrwatkins\\js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"TODO",
+			".category-header",
+			"TODO",
+			"params.name",
+			"console",
+			"CART",
+			"JRW.template",
+			"Handlebars",
+			"ErrorModal",
+			"Handlebars",
+			"JRW.template",
+			"prefillNewCardBillingFields",
+			"clearNewCardBillingFields",
+			"hideNewCardBillingFields",
+			"clearNewCardBillingFields",
+			"clearForm",
+			"clearFields",
+			"TODO",
+			"btnSubmit",
+			"data",
+			"cartData",
+			"totals",
+			"cartLineItemTable",
+			"CartLineItemTable",
+			"cartItemTable",
+			"CartItemTable",
+			"this.config",
+			"fadeInSpeed",
+			"subtotal",
+			"product",
+			"checkoutButton",
+			"cartEmpty",
+			"itemTable",
+			"lineItemList",
+			"lineItem",
+			"productId",
+			"lineItemRemoveLink",
+			"lineItemUpdateLink",
+			"quantityInput",
+			"className",
+			"ClassName",
+			"NAMESPACE",
+			"lockTabbing",
+			"bing",
+			".product-group-filter.scent",
+			"useShippingForBillingInputs",
+			"quickPayPin",
+			"accountSettingsModal",
+			"AccountSettingsModal",
+			"handleFormSuccess",
+			"handleFormSubmit",
+			"form",
+			"tooltip",
+			"Existing",
+			"occured",
+			"prefillData",
+			"stateDropkick",
+			"stateSelect",
+			"credit-card",
+			"col4",
+			"4",
+			"credit-card-",
+			"new-card",
+			"card",
+			"cards",
+			"creditCardInfo",
+			"-credit",
+			"cartButton",
+			"escape",
+			"f1",
+			"#form-checkout-shipping fieldset.account-new-address",
+			"accountEnterNewAddressButton",
+			"account-new-",
+			"new-shipping-",
+			"new-",
+			"checkout",
+			"form",
+			"inputs",
+			"quick-order",
+			".dashboard-block ",
+			"item-table",
+			"mti_font_element",
+			"></",
+			"Control",
+			"handleRemoveLineItemClick",
+			"dashboard-block",
+			"CheckoutStep3View",
+			"USER_BROKERSIGNIN",
+			"postRemoveWelcome",
+			"handlePostRemoveWelcomeClick",
+			">\n",
+			"CheckoutStep2View",
+			"setCardType",
+			"a",
+			"credit-card-",
+			"li",
+			"CheckoutStep1View",
+			"h6",
+			"<value =\"\">---</value",
+			"mask",
+			"AccountDetailView",
+			"col3",
+			"create-account-",
+			"shipping-address",
+			"shipping-address-",
+			"col4",
+			".category",
+			".category-page-header",
+			".checkout-cart",
+			"account-history-block",
+			".timeline",
+			".recipe-detail",
+			".product-detail",
+			".natural-detail",
+			".quick-order-form-inner",
+			"JAVASCRIPT_VIEW_CSS_CLASS",
+			"mmuggli",
+			"TODO",
+			"JRW.event.MODAL_OPEN_CONFIRMATION",
+			"confirmationModal",
+			"ConfirmationModal",
+			"equalto",
+			"data-modal",
+			"classes",
+			"error",
+			"accountSettingsModal",
+			"NAMESPACE.ClassName",
+			"className"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"myStateDropkick",
+			"myStateSelect",
+			"nearStateSelect",
+			"#our-consultants",
+			"#business-opportunities",
+			"OrderCatalogView",
+			"orderCatalog",
+			"JRW.view.OrderCatalog",
+			"order_catalog_",
+			"characterCounter",
+			"JRW.ui.CharacterCounter",
+			".user-rating",
+			"starRating",
+			"JRW.ui.StarRating",
+			"CustomerServiceView",
+			"create_account_",
+			"create_account",
+			"confirmationModal",
+			"ConfirmationModal",
+			"consultantWelcomeMessageModal",
+			"ConsultantWelcomeMessageModal",
+			"consultantPostModal",
+			"ConsultantPostModal",
+			"consultantStoreInfoModal",
+			"ConsultantStoreInfoModal",
+			"consultantSettingsModal",
+			"ConsultantSettingsModal",
+			"formModal",
+			"JRW.ui.FormModal",
+			"ui.FormModal",
+			"consultantEditWebsiteView",
+			"JRW.view.ConsultantEditWebsiteView",
+			"consultantSearchModal",
+			"JRW.ui.ConsultantSearchModal",
+			"forgotConsultantLink",
+			"formSuccess",
+			"formError",
+			"reset",
+			"form",
+			"JRW.ui.Form",
+			"formModal",
+			"JRW.ui.FormModal",
+			"DEFAULT_ERROR_MESSAGE",
+			"forgotPasswordModal",
+			"JRW.ui.ForgotPasswordModal",
+			"timelineView",
+			"JRW.view.TimelineView",
+			"setPrefillData",
+			"primaryCreditCardModal",
+			"PrimaryCreditCardModal",
+			"primaryShippingAddressModal",
+			"PrimaryShippingAddressModal",
+			"setState",
+			"state",
+			"setAddress",
+			"address",
+			"consultantNumberField",
+			"errorModal",
+			"ui.ErrorModal",
+			"address",
+			"savedShippingAddressesModal",
+			"SavedShippingAddressesModal",
+			"savedCreditCardsModal",
+			"JRW.ui.SavedCreditCardsModal",
+			"sa",
+			"sa_",
+			"ship",
+			"cc",
+			"title",
+			"removeCreditCardModal",
+			"ui.RemoveCreditCardModal",
+			"cashOnAccountModal",
+			"JRW.ui.CashOnAccountModal",
+			"creditCardModal",
+			"JRW.ui.CreditCardModal",
+			"sortSelect",
+			"url",
+			"brokerSignInView",
+			"JRW.view.BrokerSignInView",
+			"changePasswordView",
+			"JRW.view.ChangePasswordView",
+			"changePassword",
+			"JRW.view.ChangePassword",
+			"removeShippingAddressModal",
+			"JRW.ui.RemoveShippingAddressModal",
+			"loginView",
+			"JRW.view.LoginView",
+			"WebService",
+			"User_ShippingAddressService",
+			"shippingAddressModal",
+			"ShippingAddressModal",
+			"accountSettingsModal",
+			"AccountSettingsModal",
+			"formAlert",
+			"formAlertTemplate",
+			"formAlert",
+			"alertMessage",
+			"form",
+			"",
+			"changePasswordModal",
+			"ui.ChangePasswordModal",
+			"basicAccountInfoModal",
+			"BasicAccountInfoModal",
+			"basicInfoModal",
+			"JRW.ui.BasicInfoModal",
+			"accountDetailView",
+			"accountDetailsView",
+			"JRW.view.AccountDetailsView",
+			"resetForm",
+			"accountCreateView",
+			"JRW.view.AccountCreateView",
+			"service.User_AccountService",
+			"cancelLink",
+			"accountSignInModal",
+			"JRW.ui.AccountSignInModal",
+			"currentLocationSearchParam",
+			"pagination",
+			"mediaModal",
+			"JRW.ui.MediaModal",
+			"mediaView",
+			"vTopImg",
+			"vLeftImg",
+			"vTopImage",
+			"vLeft",
+			"vTop",
+			"boxTotal",
+			"boxClone",
+			"boxTop"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 59.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 248.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"grunt",
+				"grunt.js"
+			],
+			[
+				"quick",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/product/QuickInfoModal.js"
+			],
+			[
+				"casset",
+				"src/JRWatkins.Site/code/CassetteConfiguration.cs"
+			],
+			[
+				"jquery.ea",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/util/jquery.equalheightrow.js"
+			],
+			[
+				"cass",
+				"src/JRWatkins.Site/code/CassetteConfiguration.cs"
+			],
+			[
+				"applicatonrou",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ApplicationRouter.js"
+			],
+			[
+				"accountdetailview",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/AccountDetailView.js"
+			],
+			[
+				"",
+				".project"
+			],
+			[
+				"cate",
+				"src/JRWatkins.Site/assets/jrwatkins/css/category.css"
+			],
+			[
+				"shipping",
+				"src/JRWatkins.Site/controls/JRWatkins/Account/ShippingAddressModalControl.ascx"
+			],
+			[
+				"shippingaddressmodal",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/account/ShippingAddressModal.js"
+			],
+			[
+				"uti",
+				"src/JRWatkins.Site/assets/jrwatkins/css/utility.css"
+			],
+			[
+				"account",
+				"src/JRWatkins.Site/assets/jrwatkins/css/account.css"
+			],
+			[
+				"accountcreate",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/AccountCreateView.js"
+			],
+			[
+				"accountcre",
+				"src/JRWatkins.Site/layouts/JRWatkins/controls/AccountCreate.ascx"
+			],
+			[
+				"form.",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/Form.js"
+			],
+			[
+				"accountcreateview",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/AccountCreateView.js"
+			],
+			[
+				"form",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/Form.js"
+			],
+			[
+				"checkoutstep2",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/checkout/CheckoutStep2View.js"
+			],
+			[
+				"quickinfo",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/product/QuickInfoModal.js"
+			],
+			[
+				"compiledtem",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/template/CompiledTemplates.js"
+			],
+			[
+				"quickinf",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/product/QuickInfoModal.js"
+			],
+			[
+				"account.a",
+				"src/JRWatkins.Site/layouts/JRWatkins/controls/Account.ascx"
+			],
+			[
+				"creditcardmodal",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/account/CreditCardModal.js"
+			],
+			[
+				"compilte",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/template/CompiledTemplates.js"
+			],
+			[
+				"application",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/Application.js"
+			],
+			[
+				"templates",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/template/Templates.js"
+			],
+			[
+				"htmlend",
+				"src/JRWatkins.Site/controls/JRWatkins/HtmlEnd.ascx"
+			],
+			[
+				"checkoutstep2view.js",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/checkout/CheckoutStep2View.js"
+			],
+			[
+				"utils",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/util/util.js"
+			],
+			[
+				"checkoutstep1view",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/checkout/CheckoutStep1View.js"
+			],
+			[
+				"checkoutstep1",
+				"src/JRWatkins.Site/layouts/JRWatkins/controls/CheckoutStep1.ascx"
+			],
+			[
+				"consultantdash",
+				"src/JRWatkins.Site/layouts/JRWatkins/controls/ConsultantDashboard.ascx.cs"
+			],
+			[
+				"consultantdas",
+				"src/JRWatkins.Site/layouts/JRWatkins/controls/ConsultantDashboard.ascx"
+			],
+			[
+				"checkout",
+				"src/JRWatkins.Site/layouts/JRWatkins/controls/CheckoutStep3.ascx"
+			],
+			[
+				"checkoutstep3",
+				"src/JRWatkins.Site/layouts/JRWatkins/controls/CheckoutStep3.ascx.cs"
+			],
+			[
+				"cart.css",
+				"src/JRWatkins.Site/assets/jrwatkins/css/cart.css"
+			],
+			[
+				"checkoutstep2vi",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/checkout/CheckoutStep2View.js"
+			],
+			[
+				"consultantcartc",
+				"src/JRWatkins.Site/controls/JRWatkins/ConsultantCartControl.ascx"
+			],
+			[
+				"cart.as",
+				"src/JRWatkins.Site/controls/JRWatkins/CustomerCartControl.ascx"
+			],
+			[
+				"customerline",
+				"src/JRWatkins.Site/controls/JRWatkins/Account/OrderDetails/CustomerLineItemsControl.ascx"
+			],
+			[
+				"cartline",
+				"src/JRWatkins.Site/controls/JRWatkins/Account/OrderDetails/ConsultantLineItemsControl.ascx"
+			],
+			[
+				"customercheckoutline",
+				"src/JRWatkins.Site/controls/JRWatkins/CustomerCheckoutLineItemsControl.ascx"
+			],
+			[
+				"consultantcheckout",
+				"src/JRWatkins.Site/controls/JRWatkins/ConsultantCheckoutLineItemsControl.ascx"
+			],
+			[
+				"checkoutstep",
+				"src/JRWatkins.Site/layouts/JRWatkins/controls/CheckoutStep3.ascx.cs"
+			],
+			[
+				"cartitemta",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/CartItemTable.js"
+			],
+			[
+				"cartview",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/CartView.js"
+			],
+			[
+				"print",
+				"src/JRWatkins.Site/assets/jrwatkins/css/print.css"
+			],
+			[
+				"product",
+				"src/JRWatkins.Site/assets/jrwatkins/css/product.css"
+			],
+			[
+				"product.css",
+				"src/JRWatkins.Site/assets/jrwatkins/css/product.css"
+			],
+			[
+				"common",
+				"src/JRWatkins.Site/assets/jrwatkins/css/common.css"
+			],
+			[
+				"modal",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/Modal.js"
+			],
+			[
+				"util",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/util/util.js"
+			],
+			[
+				"formmo",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/FormModal.js"
+			],
+			[
+				"module",
+				"src/JRWatkins.Site/assets/jrwatkins/css/module.css"
+			],
+			[
+				"checkoutstep2.",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/checkout/CheckoutStep2View.js"
+			],
+			[
+				"customercheck",
+				"src/JRWatkins.Site/controls/JRWatkins/CustomerCheckoutTotalsControl.ascx"
+			],
+			[
+				"customercheckout",
+				"src/JRWatkins.Site/controls/JRWatkins/CustomerCheckoutLineItemsControl.ascx"
+			],
+			[
+				"consultantcart",
+				"src/JRWatkins.Site/controls/JRWatkins/ConsultantCartControl.ascx"
+			],
+			[
+				"customercart",
+				"src/JRWatkins.Site/controls/JRWatkins/CustomerCartControl.ascx.cs"
+			],
+			[
+				"consultantcheckoutline",
+				"src/JRWatkins.Site/controls/JRWatkins/ConsultantCheckoutLineItemsControl.ascx.cs"
+			],
+			[
+				"consultantcheckouttotals",
+				"src/JRWatkins.Site/controls/JRWatkins/ConsultantCheckoutTotalsControl.ascx"
+			],
+			[
+				"login",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/LoginView.js"
+			],
+			[
+				"rating",
+				"src/JRWatkins.Site/assets/jrwatkins/css/rating-review.css"
+			],
+			[
+				"jquery.pagin",
+				"src/JRWatkins.Site/assets/jrwatkins/js/libs/jquery.paging.js"
+			],
+			[
+				"product.j",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/ProductDetailView.js"
+			],
+			[
+				"secondarynav",
+				"src/JRWatkins.Site/controls/JRWatkins/Navigation/SecondaryNavigation.ascx"
+			],
+			[
+				"productdetail",
+				"src/JRWatkins.Site/controls/JRWatkins/ProductDetailReviewsControl.ascx"
+			],
+			[
+				"reviews",
+				"src/JRWatkins.Site/controls/JRWatkins/ProductReviewSuccessModalControl.ascx"
+			],
+			[
+				"java",
+				"src/JRWatkins.Site/controls/JRWatkins/JavaScriptTemplates.ascx"
+			],
+			[
+				"reviewsucc",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/product/ReviewSuccessModal.js"
+			],
+			[
+				"review",
+				"src/JRWatkins.Site/assets/jrwatkins/css/rating-review.css"
+			],
+			[
+				"productgr",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/ProductGroup.js"
+			],
+			[
+				"productgroupf",
+				"src/JRWatkins.Site/controls/JRWatkins/ProductGroupFilterControl.ascx"
+			],
+			[
+				"productgroup",
+				"src/JRWatkins.Site/controls/JRWatkins/ProductGroupDisplayControl.ascx"
+			],
+			[
+				"modu",
+				"src/JRWatkins.Site/assets/jrwatkins/css/module.css"
+			],
+			[
+				"productdetailreviews",
+				"src/JRWatkins.Site/controls/JRWatkins/ProductDetailReviewsControl.ascx"
+			],
+			[
+				"productdetal",
+				"src/JRWatkins.Site/layouts/JRWatkins/controls/ProductDetail.ascx"
+			],
+			[
+				"checkout.css",
+				"src/JRWatkins.Site/assets/jrwatkins/css/checkout.css"
+			],
+			[
+				"checkoutstep2.as",
+				"src/JRWatkins.Site/layouts/JRWatkins/controls/CheckoutStep2.ascx"
+			],
+			[
+				"formmodal",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/FormModal.js"
+			],
+			[
+				"forgotpas",
+				"src/JRWatkins.Site/controls/JRWatkins/Account/ForgotPasswordModalControl.ascx"
+			],
+			[
+				"eventnam",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/event/EventNames.js"
+			],
+			[
+				"cassette",
+				"src/JRWatkins.Site/code/CassetteConfiguration.cs"
+			],
+			[
+				"webservice",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/service/WebServiceURL.js"
+			],
+			[
+				"accountemail",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/account/AccountEmailModal.js"
+			],
+			[
+				"accountsettings",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/account/AccountSettingsModal.js"
+			],
+			[
+				"webserv",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/service/WebServiceURL.js"
+			],
+			[
+				"accountcrea",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/AccountCreateView.js"
+			],
+			[
+				"checkoutsign",
+				"src/JRWatkins.Site/layouts/JRWatkins/controls/CheckoutSignIn.ascx.cs"
+			],
+			[
+				"applicationrouter",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ApplicationRouter.js"
+			],
+			[
+				"mainna",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/MainNav.js"
+			],
+			[
+				"app",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/Application.js"
+			],
+			[
+				"loginview",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/LoginView.js"
+			],
+			[
+				"changepass",
+				"src/JRWatkins.Site/layouts/JRWatkins/controls/ChangePassword.ascx"
+			],
+			[
+				"changep",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/ChangePasswordView.js"
+			],
+			[
+				"forgotpass",
+				"src/JRWatkins.Site/controls/JRWatkins/Account/ForgotPasswordModalControl.ascx"
+			],
+			[
+				"changepas",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/ChangePasswordView.js"
+			],
+			[
+				"account.css",
+				"src/JRWatkins.Site/assets/jrwatkins/css/account.css"
+			],
+			[
+				"order",
+				"src/JRWatkins.Site/Services/Web/Order.asmx.cs"
+			],
+			[
+				"module.css",
+				"src/JRWatkins.Site/assets/jrwatkins/css/module.css"
+			],
+			[
+				"webser",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/service/WebService.js"
+			],
+			[
+				"email",
+				"src/JRWatkins.Site/Services/Web/EmailSignup.asmx.cs"
+			],
+			[
+				"newsleter",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/NewsletterSignUp.js"
+			],
+			[
+				"products.a",
+				"src/JRWatkins.Site/layouts/JRWatkins/controls/Products.ascx.cs"
+			],
+			[
+				"consultantpr",
+				"src/JRWatkins.Site/layouts/JRWatkins/controls/ConsultantProducts.ascx.cs"
+			],
+			[
+				"navigation",
+				"src/JRWatkins.Site/assets/jrwatkins/css/navigation.css"
+			],
+			[
+				"secondary",
+				"src/JRWatkins.Site/controls/JRWatkins/Navigation/SecondaryNavigation.ascx.cs"
+			],
+			[
+				"secondaryn",
+				"src/JRWatkins.Site/controls/JRWatkins/Navigation/SecondaryNavigation.ascx"
+			],
+			[
+				"checkoutstep2view",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/checkout/CheckoutStep2View.js"
+			],
+			[
+				"checkoutstep3.a",
+				"src/JRWatkins.Site/layouts/JRWatkins/controls/CheckoutStep3.ascx.cs"
+			],
+			[
+				"shopnav",
+				"src/JRWatkins.Site/controls/JRWatkins/Navigation/ShopSuperNavigation.ascx"
+			],
+			[
+				"seconday",
+				"src/JRWatkins.Site/controls/JRWatkins/Navigation/SecondaryNavigation.ascx"
+			],
+			[
+				"checkoutstep3view",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/checkout/CheckoutStep3View.js"
+			],
+			[
+				"savedshipping",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/account/SavedShippingAddressesModal.js"
+			],
+			[
+				"savedcredit",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/account/SavedCreditCardsModal.js"
+			],
+			[
+				"accountde",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/AccountDetailView.js"
+			],
+			[
+				"primary",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/account/PrimaryCreditCardModal.js"
+			],
+			[
+				"changepasswo",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/view/ChangePasswordView.js"
+			],
+			[
+				"check",
+				"src/JRWatkins.Site/assets/jrwatkins/css/checkout.css"
+			],
+			[
+				"grid",
+				"src/JRWatkins.Site/assets/jrwatkins/css/grid.css"
+			],
+			[
+				"accountsettingsmodal",
+				"src/JRWatkins.Site/assets/jrwatkins/js/jrw/ui/modal/account/AccountSettingsModal.js"
+			],
+			[
+				"productg",
+				"src/JRWatkins.Site/controls/JRWatkins/ProductGroupFilterControl.ascx"
+			],
+			[
+				"consultantline",
+				"src/JRWatkins.Site/controls/JRWatkins/Account/OrderDetails/ConsultantLineItemsControl.ascx"
+			],
+			[
+				"writereview",
+				"src/JRWatkins.Site/layouts/JRWatkins/controls/WriteReview.ascx"
+			],
+			[
+				"customerlin",
+				"src/JRWatkins.Site/controls/JRWatkins/Account/OrderDetails/CustomerLineItemsControl.ascx"
+			],
+			[
+				"consultantlin",
+				"src/JRWatkins.Site/controls/JRWatkins/Account/OrderDetails/ConsultantLineItemsControl.ascx"
+			],
+			[
+				"customertota",
+				"src/JRWatkins.Site/controls/JRWatkins/Account/OrderDetails/CustomerTotalsControl.ascx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 357.0,
+	"status_bar_visible": true
+}
