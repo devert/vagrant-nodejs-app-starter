@@ -3,8 +3,6 @@
 
 site 'http://community.opscode.com/api/v1'
 
-#cookbook 'apt', '>= 1.5.0'
-#cookbook 'build-essential', '>= 1.2.0'
 cookbook 'vim'
 
 cookbook 'nodejs',
