@@ -11,7 +11,7 @@ Vagrant::Config.run do |config|
 
   # The url from where the 'config.vm.box' box will be fetched if it
   # doesn't already exist on the user's system.
-  # config.vm.box_url = "http://domain.com/path/to/above.box"
+  config.vm.box_url = "http://files.vagrantup.com/lucid64.box"
 
   # Boot with a GUI so you can see the screen. (Default is headless)
   # config.vm.boot_mode = :gui
@@ -39,8 +39,7 @@ Vagrant::Config.run do |config|
   # Enable provisioning with chef solo, specifying a cookbooks path, roles
   # path, and data_bags path (all relative to this Vagrantfile), and adding 
   # some recipes and/or roles.
-  #
-  # config.vm.provision :chef_solo do |chef|
+  config.vm.provision :chef_solo do |chef|
   #   chef.cookbooks_path = "../my-recipes/cookbooks"
   #   chef.roles_path = "../my-recipes/roles"
   #   chef.data_bags_path = "../my-recipes/data_bags"
@@ -49,5 +48,5 @@ Vagrant::Config.run do |config|
   #
   #   # You may also specify custom JSON attributes:
   #   chef.json = { :mysql_password => "foo" }
-  # end
+  end
 end

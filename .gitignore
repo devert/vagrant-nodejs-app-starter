@@ -1,23 +1,6 @@
-# File Extensions to ignore
-*.diff
-*.err
-*.orig
-*.log
-*.rej
-*.swo
-*.swp
-*.vi
-*~
-*.sass-cache
+cookbooks
+tmp
+Vagrantfile
 *.sublime-project
 *.sublime-workspace
-
-# OS or Editor folders
-.DS_Store
-.cache
-.project
-.settings
-.tmproj
-.vagrant
-nbproject
-Thumbs.db
+*.lock

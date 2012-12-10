@@ -1,0 +1,28 @@
+SITE
+  remote: http://community.opscode.com/api/v1
+  specs:
+    apt (1.5.0)
+    build-essential (1.2.0)
+    couchdb (1.0.4)
+      erlang (>= 0.0.0)
+    erlang (1.1.2)
+      yum (>= 0.5.0)
+    vim (1.0.2)
+    yum (2.0.2)
+
+GIT
+  remote: https://github.com/mdxp/nodejs-cookbook.git
+  ref: master
+  sha: 9e39a20f5c9a08542fc21915aa357672634ce589
+  specs:
+    nodejs (1.0.2)
+      apt (>= 0.0.0)
+      build-essential (>= 0.0.0)
+
+DEPENDENCIES
+  apt (>= 1.5.0)
+  build-essential (>= 1.2.0)
+  couchdb (>= 1.0.4)
+  nodejs (>= 0)
+  vim (>= 0)
+

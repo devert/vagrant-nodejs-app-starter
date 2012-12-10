@@ -3,20 +3,11 @@
 
 site 'http://community.opscode.com/api/v1'
 
-# cookbook 'chef-client'
+cookbook 'apt', '>= 1.5.0'
+cookbook 'build-essential', '>= 1.2.0'
+cookbook 'couchdb', '>= 1.0.4'
+cookbook 'vim'
 
-# cookbook 'apache2', '>= 1.0.0'
-#TODO: install below
-#apt
-#build-essential
-#couchdb
-#nodejs
-#npm
-#vim
-
-# cookbook 'rvm',
-#   :git => 'https://github.com/fnichol/chef-rvm'
-
-# cookbook 'postgresql',
-#   :git => 'https://github.com/findsyou/cookbooks',
-#   :ref => 'postgresql-improvements'
+cookbook 'nodejs',
+   :git => 'https://github.com/mdxp/nodejs-cookbook.git'
+#  :ref => ''
