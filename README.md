@@ -14,7 +14,7 @@ Usage
 
 Clone it, install dependencies with Librarian-Chef and launch Vagrant:
 
-    git clone --recursive git://github.com/devert/vagrant-chef-nodejs-box
+    git clone https://github.com/devert/vagrant-chef-nodejs-box my-project
     cd my-project
     librarian-chef install
     vagrant up
