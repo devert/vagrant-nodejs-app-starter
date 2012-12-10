@@ -1,7 +1,7 @@
 *.sublime-project
 *.sublime-workspace
 *.lock
+.vagrant
 
 cookbooks
 tmp
-Vagrantfile

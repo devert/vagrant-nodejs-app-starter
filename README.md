@@ -1,7 +1,7 @@
 Intro
 ======
 
-A Vagrant Box, provisioned with Chef Solo, including NodeJS and CouchDB.
+A Vagrant Node.js box starter, provisioned with Chef Solo.
 
 Other recipes included:
 
@@ -12,8 +12,9 @@ Other recipes included:
 Usage
 ======
 
-Clone it and launch Vagrant:
+Clone it, install dependencies with Librarian-Chef and launch Vagrant:
 
-    git clone --recursive git://github.com/devert/vagrant-chef-nodejs-couchdb-box
+    git clone --recursive git://github.com/devert/vagrant-chef-nodejs-box
     cd my-project
+    librarian-chef install
     vagrant up
