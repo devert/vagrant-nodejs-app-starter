@@ -25,13 +25,13 @@ Cookbooks included:
 
 Clone it into your project folder, install cookbook dependencies with Librarian-Chef, launch/create Vagrant VM, run node web server.
 
-    git clone https://github.com/devert/vagrant-nodejs-app-starter project-name
-    rm -rf .git
-    cd vagrant
-    librarian-chef install
-    vagrant up
-    vagrant ssh
-    cd project-name
-    node server.js
+    $ git clone https://github.com/devert/vagrant-nodejs-app-starter project-name
+    $ rm -rf .git
+    $ cd vagrant
+    $ librarian-chef install
+    $ vagrant up
+    $ vagrant ssh
+    $ cd project-name
+    $ node server.js
 
 After running the above commands you should be able to browse to http://127.0.0.1:8080 and see "Hello World!"
