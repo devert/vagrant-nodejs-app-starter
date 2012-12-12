@@ -1,7 +1,6 @@
-## Vagrant Node.js App Starter
+# Vagrant Node.js App Starter
 
 ### Intro
-======
 
 A Node.js project starter, utilizing a Vagrant VM (default: Ubuntu Precise Pangolin 32-bit) provisioned with Chef Solo.
 
@@ -13,14 +12,13 @@ Cookbooks included:
 * [vim](https://github.com/opscode-cookbooks/vim)
 
 ### Requirements
-======
 
+* [VirtualBox](https://www.virtualbox.org/)
 * [Ruby](http://www.ruby-lang.org/en/)
 * [Vagrant](http://vagrantup.com/)
 * [Librarian](https://github.com/applicationsonline/librarian)
 
 ### Usage
-======
 
 Clone it into your project folder, install cookbook dependencies with Librarian-Chef, launch/create Vagrant VM, run node web server.
 
