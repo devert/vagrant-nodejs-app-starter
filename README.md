@@ -18,7 +18,7 @@ Cookbooks included:
 * [Vagrant](http://vagrantup.com/)
 * [Librarian](https://github.com/applicationsonline/librarian)
 
-### Optional
+## Optional
 * Keep Vagrant VM's VirtualBox Guest Additions up to date with [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) plugin.
 
 ## Usage
