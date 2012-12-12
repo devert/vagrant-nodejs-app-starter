@@ -38,9 +38,15 @@ Vagrant::Config.run do |config|
   # an identifier, the second is the path on the guest to mount the
   # folder, and the third is the path on the host to the actual folder.
   config.vm.share_folder "project-name", "/home/vagrant/project-name", "../src"
-  
+
   # Allows symlinks to be created in the shared folder (ex: node_modules).
   config.vm.customize ["setextradata", :id, "VBoxInternal2/SharedFoldersEnableSymlinksCreate/project-name", "1"]
+
+  # Requires vagrant-vbguest plugin
+  #
+  # set auto_update to false, if you do NOT want to check the correct  
+  # VirtualBox guest additions version when booting this machine
+  # config.vbguest.auto_update = true
 
   # Enable provisioning with chef solo, specifying a cookbooks path, roles
   # path, and data_bags path (all relative to this Vagrantfile), and adding 
