@@ -1,0 +1,20 @@
+{
+  "name": "project-name",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [],
+  "homepage": "",
+  "author": "",
+  "repository": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "main": "server.js",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "scripts": {
+  }
+}

@@ -7,4 +7,3 @@ cookbook 'vim'
 
 cookbook 'nodejs',
    :git => 'https://github.com/mdxp/nodejs-cookbook.git'
-#  :ref => ''
