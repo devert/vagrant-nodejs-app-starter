@@ -46,7 +46,7 @@ Vagrant::Config.run do |config|
   #
   # set auto_update to false, if you do NOT want to check the correct  
   # VirtualBox guest additions version when booting this machine
-  # config.vbguest.auto_update = true
+  # config.vbguest.auto_update = false
 
   # Enable provisioning with chef solo, specifying a cookbooks path, roles
   # path, and data_bags path (all relative to this Vagrantfile), and adding 
