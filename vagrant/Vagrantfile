@@ -14,7 +14,12 @@ Vagrant::Config.run do |config|
   config.vm.box_url = "http://files.vagrantup.com/precise32.box"
 
   # This can be set to the host name you wish the guest machine to have.
-  config.vm.host_name = "project-name-dev-box"
+  config.vm.host_name = "proj-name-dev-box"
+  
+  # Requires vagrant-hostmaster
+  # 
+  # Manage custom /etc/hosts entries on both the host OS and guest VMs
+  # config.hosts.name = "proj-name.local"
 
   # Boot with a GUI so you can see the screen. (Default is headless)
   # config.vm.boot_mode = :gui
@@ -37,7 +42,7 @@ Vagrant::Config.run do |config|
   # Share an additional folder to the guest VM. The first argument is
   # an identifier, the second is the path on the guest to mount the
   # folder, and the third is the path on the host to the actual folder.
-  config.vm.share_folder "project-name", "/home/vagrant/project-name", "../src"
+  config.vm.share_folder "proj-name", "/home/vagrant/proj-name", "../src"
 
   # Allows symlinks to be created in the shared folder (ex: node_modules).
   config.vm.customize ["setextradata", :id, "VBoxInternal2/SharedFoldersEnableSymlinksCreate/project-name", "1"]
@@ -61,9 +66,9 @@ Vagrant::Config.run do |config|
     chef.add_recipe "vim"
     # chef.add_role "web"
 
-    chef.json = { 
+    chef.json = {
       "nodejs" => {
-        "version" => "0.8.15"
+        "version" => "0.8.16"
       } 
     }
   end
