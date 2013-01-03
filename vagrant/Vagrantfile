@@ -45,7 +45,10 @@ Vagrant::Config.run do |config|
   config.vm.share_folder "proj-name", "/home/vagrant/proj-name", "../src"
 
   # Allows symlinks to be created in the shared folder (ex: node_modules).
-  config.vm.customize ["setextradata", :id, "VBoxInternal2/SharedFoldersEnableSymlinksCreate/project-name", "1"]
+  config.vm.customize ["setextradata", :id, "VBoxInternal2/SharedFoldersEnableSymlinksCreate/proj-name", "1"]
+
+  # Increase the memory available the VM.
+  # config.vm.customize ["modifyvm", :id, "--memory", 1024]
 
   # Requires vagrant-vbguest plugin
   #

@@ -31,13 +31,7 @@ Clone it into your project folder, install cookbook dependencies with Librarian-
 
 After running the above commands you should be able to browse to http://127.0.0.1:8080 and see "Hello World!"
 
-## Optional
-
-#### Node.js
-* Keep the Node.js web server running and restart on file changes with [Forever](https://github.com/nodejitsu/forever)
-
-    	$ npm install forever -g
-		$ forever -w proj-name/app.js
+## Optional (But Awesome)
 
 #### Vagrant
 * Keep Vagrant VM's VirtualBox Guest Additions up to date with [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) plugin.
@@ -53,4 +47,10 @@ After running the above commands you should be able to browse to http://127.0.0.
 	config.hosts.name = "proj-name.local"
 	config.vm.network :hostonly, "192.168.33.10"
 	```
+
+#### Node.js
+* Keep the Node.js web server running and restart on file changes with [Forever](https://github.com/nodejitsu/forever)
+
+    	$ npm install forever -g
+		$ forever -w proj-name/app.js
 
