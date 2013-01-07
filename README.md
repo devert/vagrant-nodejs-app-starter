@@ -37,11 +37,11 @@ After running the above commands you should be able to browse to http://locahost
 #### Vagrant
 * Keep Vagrant VM's VirtualBox Guest Additions up to date with [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) plugin.
 		
-		$ vagrant gem install vagrant-vbguest
+		> vagrant gem install vagrant-vbguest
 
 * Setup a custom host name for Vagrant VM and host OS with [vagrant-hostmaster](https://github.com/mosaicxm/vagrant-hostmaster.git)
 	
-		$ vagrant gem install vagrant-hostmaster
+		> vagrant gem install vagrant-hostmaster
 
 	```ruby
 	# Uncomment the following in Vagrantfile
@@ -52,6 +52,6 @@ After running the above commands you should be able to browse to http://locahost
 #### Node.js
 * Keep the Node.js web server running and restart on file changes with [Forever](https://github.com/nodejitsu/forever)
 
-    	$ npm install forever -g
-		$ forever -w proj-name/app.js
+    	> npm install forever -g
+		> forever -w proj-name/app.js
 
