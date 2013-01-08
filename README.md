@@ -30,9 +30,9 @@ Clone it into your project folder, install cookbook dependencies with Librarian-
     > vagrant ssh
     > node proj-name/app.js
 
-After running the above commands you should be able to browse to http://locahost:8080 and see "Hello World!"
+After running the above commands you should be able to browse to http://locahost:3000/ and see "Hello World!" on your host machine. Changes to files via the host machine will immediately be updated on the guest VM as well. You'll just have to remember to start and stop the node server. Or you can install a daemon tool like [Forever](https://github.com/nodejitsu/forever) to watch for updates to your application files (details below). Now get in there and build something awesometronic with Node.js!
 
-## Optional (But Awesome)
+## Optional (But Pretty Great)
 
 #### Vagrant
 * Keep Vagrant VM's VirtualBox Guest Additions up to date with [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) plugin.
@@ -46,7 +46,6 @@ After running the above commands you should be able to browse to http://locahost
 	```ruby
 	# Uncomment the following in Vagrantfile
 	config.hosts.name = "proj-name.local"
-	config.vm.network :hostonly, "192.168.33.10"
 	```
 
 #### Node.js
