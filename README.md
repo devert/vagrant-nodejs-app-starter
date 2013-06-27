@@ -21,16 +21,20 @@ Cookbooks included:
 
 Clone it into your project folder.
 
-    > git clone https://github.com/devert/vagrant-nodejs-app-starter [proj-name]
-    > rm -rf .git
+```bash
+$ git clone https://github.com/devert/vagrant-nodejs-app-starter [proj-name]
+$ rm -rf .git
+```
 
 Open the vagrant/Vagrantfile and modify *proj-name* instances to the name of your project. Modify the Node.js version you would like installed in the *chef.json* attributes.
 
-    > cd vagrant
-    > vagrant up
-    > vagrant reload
-    > vagrant ssh
-    > node proj-name/app.js
+```bash
+$ cd vagrant
+$ vagrant up
+$ vagrant reload
+$ vagrant ssh
+$ node proj-name/app.js
+```
 
 After running the above commands you should be able to browse to http://locahost:3000/ and see "Hello World!" on your host machine. Changes to files via the host machine will immediately be updated on the guest VM as well. You'll just have to remember to start and stop the node server. Or you can install a daemon tool like [Forever](https://github.com/nodejitsu/forever) to watch for updates to your application files (details below). Now get in there and build something awesometronic with Node.js!
 
@@ -38,12 +42,15 @@ After running the above commands you should be able to browse to http://locahost
 
 #### Vagrant
 * Keep Vagrant VM's VirtualBox Guest Additions up to date with [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) plugin. Install this on the host machine.
-		
-		> vagrant plugin install vagrant-vbguest
+
+    ```bash		
+    $ vagrant plugin install vagrant-vbguest
+    ```
 
 #### Node.js
 * Keep the Node.js web server running and restart on file changes with [Forever](https://github.com/nodejitsu/forever). Install this in the Vagrant VM.
 
-    	> npm install forever -g
-		> forever -w proj-name/app.js
-
+    ```bash
+    $ npm install forever -g
+    $ forever -w proj-name/app.js
+    ```
