@@ -19,7 +19,7 @@ Cookbooks included:
 
 ## Usage
 
-Clone it into your project folder, install cookbook dependencies with Librarian-Chef, launch/create Vagrant VM, run Node.js web server.
+Clone it into your project folder.
 
     > git clone https://github.com/devert/vagrant-nodejs-app-starter [proj-name]
     > rm -rf .git
@@ -27,7 +27,6 @@ Clone it into your project folder, install cookbook dependencies with Librarian-
 Open the vagrant/Vagrantfile and modify *proj-name* instances to the name of your project. Modify the Node.js version you would like installed in the *chef.json* attributes.
 
     > cd vagrant
-    > librarian-chef install
     > vagrant up
     > vagrant reload
     > vagrant ssh
