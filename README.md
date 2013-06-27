@@ -1,6 +1,5 @@
 # Vagrant Node.js App Starter
 
----
 A Node.js project starter, utilizing a Vagrant VM (default: Ubuntu 12.04 Precise Pangolin 32-bit) provisioned with Chef Solo.
 
 Cookbooks included:
