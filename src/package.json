@@ -11,7 +11,7 @@
   },
   "devDependencies": {
   },
-  "main": "server.js",
+  "main": "app.js",
   "engines": {
     "node": "0.8.x"
   },
