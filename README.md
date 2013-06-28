@@ -14,7 +14,7 @@ Cookbooks included:
 * [VirtualBox](https://www.virtualbox.org/)
 * [Ruby](http://www.ruby-lang.org/en/)
 * [Vagrant](http://vagrantup.com/)
-* [Librarian](https://github.com/applicationsonline/librarian)
+* [Vagrant Librarian-Chef](https://github.com/jimmycuadra/vagrant-librarian-chef)
 
 ## Usage
 
@@ -28,6 +28,7 @@ $ rm -rf .git
 Open the vagrant/Vagrantfile and modify *proj-name* instances to the name of your project. Modify the Node.js version you would like installed in the *chef.json* attributes.
 
 ```bash
+$ vagrant plugin install vagrant-librarian-chef
 $ cd vagrant
 $ vagrant up
 $ vagrant reload
