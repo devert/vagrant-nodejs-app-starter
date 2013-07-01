@@ -1,4 +1,5 @@
-# Vagrant Node.js App Starter
+Vagrant Node.js App Starter
+==========================
 
 A Node.js project starter, utilizing a Vagrant VM (default: Ubuntu 12.04 Precise Pangolin 32-bit) provisioned with Chef Solo.
 
@@ -31,7 +32,6 @@ Open the vagrant/Vagrantfile and modify *proj-name* instances to the name of you
 $ vagrant plugin install vagrant-librarian-chef
 $ cd vagrant
 $ vagrant up
-$ vagrant reload
 $ vagrant ssh
 $ node proj-name/app.js
 ```
