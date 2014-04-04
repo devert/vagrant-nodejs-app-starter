@@ -34,7 +34,7 @@ Open the vagrant/Vagrantfile and modify all *proj-name* instances to the name of
 * Modify the Chef version you would like installed with the *config.omnibus.chef_version* attribute.
 
 ```bash
-$ vagrant plugun install vagrant-omnibus
+$ vagrant plugin install vagrant-omnibus
 $ vagrant plugin install vagrant-librarian-chef
 $ cd vagrant
 $ vagrant up
